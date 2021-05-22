@@ -1,19 +1,17 @@
 # Nome do projeto
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+O Projeto Quartzo é uma iniciativa que busca democratizar a compreensão de dados abertos. Seu principal objetivo é oferecer aos cidadãos visualizações simples e acessíveis de dados públicos, promovendo seu amplo entendimento e introduzindo sua importância no cotidiano das pessoas.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Leandro Passos Lima
+* [Pedro Henrique Amorim Sá](https://github.com/pedro-as)
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* João Carlos Oliveira Caetano
+* [Rommel Vieira Carneiro](https://github.com/rommelcarneiro)
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Em construção.
