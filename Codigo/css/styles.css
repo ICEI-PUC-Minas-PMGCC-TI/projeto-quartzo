@@ -35,8 +35,8 @@ main section
 /* barra de navegação */
 .navbar-brand
 {
-  font-family: 'Poiret One', sans-serif;
-  font-size: 1.4rem;
+  font-family: 'Krona One', sans-serif;
+  font-size: 1rem;
 }
 
 .navbar-brand:hover
@@ -74,7 +74,8 @@ main section
 
 .footer-brand
 {
-  font-family: 'Poiret One', sans-serif;
+  font-family: 'Krona One', sans-serif;
+  font-size: 0.8rem;
   color: white;
   text-decoration: none;
 }
@@ -87,7 +88,7 @@ main section
 /* media queries */
 @media screen and (min-width: 1200px)
 {
-  .navbar-nav li
+  .nav-item
   {
     margin-left: 30px;
   } 
