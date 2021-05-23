@@ -41,7 +41,7 @@ main section
 
 .navbar-brand:hover
 {
-  background: -webkit-linear-gradient(right, rgb(0, 255, 182), rgb(18, 120, 255));
+  background: -webkit-linear-gradient(right, rgb(0, 255, 182), rgb(6, 85, 255));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
