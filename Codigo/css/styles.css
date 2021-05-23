@@ -1,0 +1,108 @@
+body
+{
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+main section
+{
+  margin-bottom: 20px;
+}
+
+.btn-secondary, .btn-outline-dark
+{
+  float: right;
+  margin-bottom: 10px;
+}
+
+/* temporario */
+
+.lancamentos
+{
+  margin: 40px 0px 120px;
+}
+
+.carousel-item > div
+{
+  display: flex;
+  justify-content: space-between;
+}
+
+.carousel-indicators
+{
+  bottom: -50px;
+}
+
+/* barra de navegação */
+.navbar-brand
+{
+  font-family: 'Poiret One', sans-serif;
+}
+
+.navbar-brand:hover
+{
+  color: #73ffe3 !important;
+}
+
+.navbar-nav
+{
+  font-family: 'Spartan', sans-serif;
+}
+
+.nav-link:hover
+{
+  color: #40a9ff !important;
+}
+
+.form-control:focus {
+  border-color: #e4e4e4;
+  box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.377), 0 0 8px rgba(255, 255, 255, 0.753);
+}
+
+/* rodapé */
+.footer
+{
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer-brand
+{
+  font-family: 'Poiret One', sans-serif;
+  color: white;
+  text-decoration: none;
+}
+
+.footer-brand:hover
+{
+  color: #73ffe3 !important;
+}
+
+/* media queries */
+@media screen and (min-width: 1200px)
+{
+  .navbar-nav li
+  {
+    margin-left: 30px;
+  } 
+}
+
+@media screen and (max-width: 767px)
+{
+  .card
+  {
+    margin: 0 auto 16px;
+    float: none;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px)
+{
+  iframe
+  {
+    min-height: 360px;
+  }
+}
