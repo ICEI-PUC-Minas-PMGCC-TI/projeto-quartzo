@@ -100,7 +100,6 @@ main section
   }
 }
 
-.text_center
-{
+align.text {
   text-align: right;
 }
