@@ -99,3 +99,8 @@ main section
     min-height: 360px;
   }
 }
+
+text.center
+{
+  text-align: center;
+}
