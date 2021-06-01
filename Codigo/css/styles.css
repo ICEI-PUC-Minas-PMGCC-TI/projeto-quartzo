@@ -49,16 +49,30 @@ main section
 }
 
 /* carousel */
+#carousel-principal
+{
+  margin-top: 50px;
+}
+
+#carousel-principal h2
+{
+  color: rgba(255, 255, 255, 0.842);
+  font-family: 'Spartan', sans-serif;
+  font-weight: 600;
+  padding: 10px;
+}
 
 /* rodapé */
 .footer
 {
   color: white;
   text-align: center;
-  padding: 10px;
-  position: absolute;
+  left: 0;
   bottom: 0;
+  position: fixed;
   width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .footer-brand
@@ -85,17 +99,8 @@ main section
 
 @media screen and (max-width: 767px)
 {
-  .card
+  #carousel-principal h2
   {
-    margin: 0 auto 16px;
-    float: none;
-  }
-}
-
-@media screen and (min-width: 768px) and (max-width: 1023px)
-{
-  iframe
-  {
-    min-height: 360px;
+    font-size: 1.2rem;
   }
 }
