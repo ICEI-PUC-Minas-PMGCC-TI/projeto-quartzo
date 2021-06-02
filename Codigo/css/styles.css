@@ -73,6 +73,7 @@ main section
   width: 100%;
   padding-top: 10px;
   padding-bottom: 10px;
+  z-index: 1;
 }
 
 .footer-brand
@@ -102,5 +103,14 @@ main section
   #carousel-principal h2
   {
     font-size: 1.2rem;
+  }
+}
+
+
+@media screen and (max-width: 767px)
+{
+  #carousel-principal img
+  {
+    max-height: 300px;
   }
 }
