@@ -4,7 +4,7 @@ O Projeto Quartzo é uma iniciativa que busca democratizar a compreensão de dad
 
 ## Desenvolvedores
 
-* Leandro Passos Lima
+* [Leandro Passos Lima](https://github.com/LPL1997)
 * [Pedro Henrique Amorim Sá](https://github.com/pedro-as)
 
 ## Orientadores
