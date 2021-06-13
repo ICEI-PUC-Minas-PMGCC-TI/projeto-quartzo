@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "municipio": "Belo Horizonte",
+    "dose1": 766951,
+    "dose2": 369198,
+    "dosesTotal": 1136149,
+    "pop": 2521564
+  },
+  {
+    "id": 2,
+    "municipio": "Betim",
+    "dose1": 76165,
+    "dose2": 34729,
+    "dosesTotal": 110894,
+    "pop": 444784
+  },
+  {
+    "id": 3,
+    "municipio": "Conselheiro Lafaiete",
+    "dose1": 26228,
+    "dose2": 14272,
+    "dosesTotal": 40500,
+    "pop": 129606
+  },
+  {
+    "id": 4,
+    "municipio": "Contagem",
+    "dose1": 129384,
+    "dose2": 55732,
+    "dosesTotal": 185116,
+    "pop": 668949
+  },
+  {
+    "id": 5,
+    "municipio": "Curvelo",
+    "dose1": 20539,
+    "dose2": 8344,
+    "dosesTotal": 28883,
+    "pop": 80616
+  },
+  {
+    "id": 6,
+    "municipio": "Diamantina",
+    "dose1": 11089,
+    "dose2": 5918,
+    "dosesTotal": 17007,
+    "pop": 47825
+  },
+  {
+    "id": 7,
+    "municipio": "Divinópolis",
+    "dose1": 55139,
+    "dose2": 27021,
+    "dosesTotal": 82160,
+    "pop": 240408
+  },
+  {
+    "id": 8,
+    "municipio": "Governador Valadares",
+    "dose1": 58716,
+    "dose2": 29314,
+    "dosesTotal": 88030,
+    "pop": 281046
+  },
+  {
+    "id": 9,
+    "municipio": "Ipatinga",
+    "dose1": 49436,
+    "dose2": 25255,
+    "dosesTotal": 74691,
+    "pop": 265409
+  },
+  {
+    "id": 10,
+    "municipio": "Juiz de Fora",
+    "dose1": 170217,
+    "dose2": 74853,
+    "dosesTotal": 245070,
+    "pop": 573285
+  },
+  {
+    "id": 11,
+    "municipio": "Montes Claros",
+    "dose1": 87914,
+    "dose2": 43252,
+    "dosesTotal": 131166,
+    "pop": 413487
+  },
+  {
+    "id": 12,
+    "municipio": "Ouro Preto",
+    "dose1": 16233,
+    "dose2": 8027,
+    "dosesTotal": 24260,
+    "pop": 74558
+  },
+  {
+    "id": 13,
+    "municipio": "Paracatu",
+    "dose1": 17411,
+    "dose2": 7612,
+    "dosesTotal": 25023,
+    "pop": 93862
+  },
+  {
+    "id": 14,
+    "municipio": "Poços de Caldas",
+    "dose1": 44003,
+    "dose2": 21929,
+    "dosesTotal": 65932,
+    "pop": 168641
+  },
+  {
+    "id": 15,
+    "municipio": "Uberaba",
+    "dose1": 75282,
+    "dose2": 35070,
+    "dosesTotal": 110352,
+    "pop": 337092
+  },
+  {
+    "id": 16,
+    "municipio": "Uberlândia",
+    "dose1": 153696,
+    "dose2": 80550,
+    "dosesTotal": 234246,
+    "pop": 699097
+  },
+  {
+    "id": 17,
+    "municipio": "Viçosa",
+    "dose1": 16671,
+    "dose2": 5786,
+    "dosesTotal": 22457,
+    "pop": 79388
+  }
+]
