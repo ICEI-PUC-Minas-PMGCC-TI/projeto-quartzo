@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "cargo": "Auditor Fiscal da Receita Estadual",
+    "remun_media": 25512.24
+  },
+  {
+    "id": 2,
+    "cargo": "Coronel",
+    "remun_media": 23265.54
+  },
+  {
+    "id": 3,
+    "cargo": "Tenente-Coronel",
+    "remun_media": 20917.85
+  },
+  {
+    "id": 4,
+    "cargo": "Advogado Autárquico",
+    "remun_media": 20347.77
+  },
+  {
+    "id": 5,
+    "cargo": "Major",
+    "remun_media": 15845.95
+  },
+  {
+    "id": 6,
+    "cargo": "Gestor Fazendário",
+    "remun_media": 15392.98
+  },
+  {
+    "id": 7,
+    "cargo": "Perito Criminal",
+    "remun_media": 14075.9
+  },
+  {
+    "id": 8,
+    "cargo": "Médio Hematologista e Hemoterapeuta",
+    "remun_media": 13020.04
+  },
+  {
+    "id": 9,
+    "cargo": "Delegado de Polícia",
+    "remun_media": 12994.76
+  },
+  {
+    "id": 10,
+    "cargo": "Capitão",
+    "remun_media": 12976.58
+  },
+  {
+    "id": 11,
+    "cargo": "Médico Legista",
+    "remun_media": 12937.62
+  },
+  {
+    "id": 12,
+    "cargo": "Analista Fazendário de Administração e Finanças",
+    "remun_media": 12689.36
+  },
+  {
+    "id": 13,
+    "cargo": "Médico de Seguridade Social",
+    "remun_media": 12684.37
+  },
+  {
+    "id": 14,
+    "cargo": "Subtenente",
+    "remun_media": 12376.73
+  },
+  {
+    "id": 15,
+    "cargo": "Auditor Interno",
+    "remun_media": 12151.9
+  },
+  {
+    "id": 16,
+    "cargo": "1º Tenente",
+    "remun_media": 11901.69
+  },
+  {
+    "id": 17,
+    "cargo": "Médico",
+    "remun_media": 11608.07
+  },
+  {
+    "id": 18,
+    "cargo": "Especialista em Gestão de Defesa Agropecuária",
+    "remun_media": 11196.76
+  },
+  {
+    "id": 19,
+    "cargo": "Gestor de Transportes e Obras Públicas",
+    "remun_media": 9948.75
+  },
+  {
+    "id": 20,
+    "cargo": "Especialista em Políticas Públicas e Gestão Governamental",
+    "remun_media": 9864.2
+  }
+]

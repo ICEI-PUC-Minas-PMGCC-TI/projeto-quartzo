@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1,
+    "orgao": "Advocacia-Geral do Estado",
+    "remunMedia": 6929.77
+  },
+  {
+    "id": 2,
+    "orgao": "Agência RMBH",
+    "remunMedia": 7714.14
+  },
+  {
+    "id": 3,
+    "orgao": "Agência RMVA",
+    "remunMedia": 7385.32
+  },
+  {
+    "id": 4,
+    "orgao": "ARSAE",
+    "remunMedia": 6688.17
+  },
+  {
+    "id": 5,
+    "orgao": "Corpo de Bombeiros Militar",
+    "remunMedia": 6606.3
+  },
+  {
+    "id": 6,
+    "orgao": "Controladoria-Geral do Estado",
+    "remunMedia": 10144.36
+  },
+  {
+    "id": 7,
+    "orgao": "DER",
+    "remunMedia": 7141.16
+  },
+  {
+    "id": 8,
+    "orgao": "ESP-MG",
+    "remunMedia": 5963.22
+  },
+  {
+    "id": 9,
+    "orgao": "FAOP",
+    "remunMedia": 2941.08
+  },
+  {
+    "id": 10,
+    "orgao": "FEAM",
+    "remunMedia": 9379.46
+  },
+  {
+    "id": 11,
+    "orgao": "FHEMIG",
+    "remunMedia": 4145.31
+  },
+  {
+    "id": 12,
+    "orgao": "FUCAM",
+    "remunMedia": 4771.47
+  },
+  {
+    "id": 13,
+    "orgao": "Fundação Clóvis Salgado",
+    "remunMedia": 5472.86
+  },
+  {
+    "id": 14,
+    "orgao": "FAPEMIG",
+    "remunMedia": 6099.7
+  },
+  {
+    "id": 15,
+    "orgao": "Fundação Helena Antipoff",
+    "remunMedia": 1590.87
+  },
+  {
+    "id": 16,
+    "orgao": "Fundação Hemominas",
+    "remunMedia": 6293.57
+  },
+  {
+    "id": 17,
+    "orgao": "Fundação João Pinheiro",
+    "remunMedia": 8262.93
+  },
+  {
+    "id": 18,
+    "orgao": "Fundação TV Minas",
+    "remunMedia": 3452.5
+  },
+  {
+    "id": 19,
+    "orgao": "FUNED",
+    "remunMedia": 5703.93
+  },
+  {
+    "id": 20,
+    "orgao": "Gabinete Militar",
+    "remunMedia": 5275.84
+  },
+  {
+    "id": 21,
+    "orgao": "IDENE",
+    "remunMedia": 4318.35
+  },
+  {
+    "id": 22,
+    "orgao": "IEF",
+    "remunMedia": 7414.58
+  },
+  {
+    "id": 23,
+    "orgao": "IEPHA",
+    "remunMedia": 6193.75
+  },
+  {
+    "id": 24,
+    "orgao": "IGAM",
+    "remunMedia": 8224.48
+  },
+  {
+    "id": 25,
+    "orgao": "IMA",
+    "remunMedia": 6889.27
+  },
+  {
+    "id": 26,
+    "orgao": "IPEM",
+    "remunMedia": 4963.03
+  },
+  {
+    "id": 27,
+    "orgao": "IPSEMG",
+    "remunMedia": 4114.02
+  },
+  {
+    "id": 28,
+    "orgao": "IPSM",
+    "remunMedia": 3024.01
+  },
+  {
+    "id": 29,
+    "orgao": "JUCEMG",
+    "remunMedia": 5953.37
+  },
+  {
+    "id": 30,
+    "orgao": "Loteria Mineira",
+    "remunMedia": 6235.92
+  },
+  {
+    "id": 31,
+    "orgao": "Ouvidoria-Geral",
+    "remunMedia": 4656.61
+  },
+  {
+    "id": 32,
+    "orgao": "Polícia Civil",
+    "remunMedia": 7284.26
+  },
+  {
+    "id": 33,
+    "orgao": "Polícia Militar",
+    "remunMedia": 6333.88
+  },
+  {
+    "id": 34,
+    "orgao": "Secretaria de Direitos Humanos",
+    "remunMedia": 7320.17
+  },
+  {
+    "id": 35,
+    "orgao": "Secretaria de Planejamento e Gestão",
+    "remunMedia": 6518.29
+  },
+  {
+    "id": 36,
+    "orgao": "Secretaria de Cultura e Turismo",
+    "remunMedia": 5553.59
+  },
+  {
+    "id": 37,
+    "orgao": "Secretaria da Agricultura",
+    "remunMedia": 5813.72
+  },
+  {
+    "id": 38,
+    "orgao": "Secretaria da Fazenda",
+    "remunMedia": 17765.27
+  },
+  {
+    "id": 39,
+    "orgao": "Secretaria de Desenvolvimento Econômico",
+    "remunMedia": 7098.84
+  },
+  {
+    "id": 40,
+    "orgao": "Secretaria de Educação",
+    "remunMedia": 4614.03
+  },
+  {
+    "id": 41,
+    "orgao": "Secretaria de Desenvolvimento Social",
+    "remunMedia": 5517.09
+  },
+  {
+    "id": 42,
+    "orgao": "Secretaria de Governo",
+    "remunMedia": 7395.03
+  },
+  {
+    "id": 43,
+    "orgao": "Secretaria de Infraestrutura e Mobilidade",
+    "remunMedia": 7465.62
+  },
+  {
+    "id": 44,
+    "orgao": "Secretaria de Justiça e Segurança Pública",
+    "remunMedia": 4472.06
+  },
+  {
+    "id": 45,
+    "orgao": "Secretaria de Saúde",
+    "remunMedia": 4799.1
+  },
+  {
+    "id": 46,
+    "orgao": "Secretaria do Meio Ambiente",
+    "remunMedia": 7646.84
+  },
+  {
+    "id": 47,
+    "orgao": "Secretaria Geral",
+    "remunMedia": 6928.44
+  },
+  {
+    "id": 48,
+    "orgao": "Seguranca Pública",
+    "remunMedia": 1660.39
+  },
+  {
+    "id": 49,
+    "orgao": "UEMG",
+    "remunMedia": 5761.93
+  },
+  {
+    "id": 50,
+    "orgao": "UNIMONTES",
+    "remunMedia": 8266.87
+  },
+  {
+    "id": 51,
+    "orgao": "UTRAMIG",
+    "remunMedia": 4839.7
+  }
+]
