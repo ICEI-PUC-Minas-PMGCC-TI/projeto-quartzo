@@ -48,55 +48,5 @@
     "id": 10,
     "cargo": "Auxiliar de Desenvolvimento Econômico e Social",
     "remun_media": 2790.93
-  },
-  {
-    "id": 11,
-    "cargo": "Técnico Assistente da Polícia Civil",
-    "remun_media": 2885.16
-  },
-  {
-    "id": 12,
-    "cargo": "Médico Residente (contrato)",
-    "remun_media": 2891.9
-  },
-  {
-    "id": 13,
-    "cargo": "Analista de Gestão e Políticas Públicas em Desenvolvimento (contrato)",
-    "remun_media": 3095.58
-  },
-  {
-    "id": 14,
-    "cargo": "Técnico Operacional da Saúde (contrato)",
-    "remun_media": 3104.95
-  },
-  {
-    "id": 15,
-    "cargo": "Técnico de Desenvolvimento Econômico e Social",
-    "remun_media": 3132.72
-  },
-  {
-    "id": 16,
-    "cargo": "Auxiliar de Gestão Artística",
-    "remun_media": 3174.55
-  },
-  {
-    "id": 17,
-    "cargo": "Técnico em Seguridade Social",
-    "remun_media": 3180.75
-  },
-  {
-    "id": 18,
-    "cargo": "Analista de Desenvolvimento Rural",
-    "remun_media": 3197.69
-  },
-  {
-    "id": 19,
-    "cargo": "Assistente Técnico Hemominas (contrato)",
-    "remun_media": 3214.47
-  },
-  {
-    "id": 20,
-    "cargo": "Auxiliar de Desenvolvimento Rural",
-    "remun_media": 3286.09
   }
 ]
