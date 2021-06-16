@@ -2,51 +2,51 @@
   {
     "id": 1,
     "cargo": "Auxiliar de Serviços de Educação Básica",
-    "remun_media": 1789.11
+    "remunMedia": 1789.11
   },
   {
     "id": 2,
     "cargo": "Técnico Universitário (contrato)",
-    "remun_media": 1966.66
+    "remunMedia": 1966.66
   },
   {
     "id": 3,
     "cargo": "Técnico de Desenvolvimento Rural",
-    "remun_media": 2125.5
+    "remunMedia": 2125.5
   },
   {
     "id": 4,
     "cargo": "Analista de Educação Básica",
-    "remun_media": 2365.21
+    "remunMedia": 2365.21
   },
   {
     "id": 5,
     "cargo": "Técnico de Gestão da Saúde",
-    "remun_media": 2430.47
+    "remunMedia": 2430.47
   },
   {
     "id": 6,
     "cargo": "Assistente Executivo de Defesa Social (contrato)",
-    "remun_media": 2483.37
+    "remunMedia": 2483.37
   },
   {
     "id": 7,
     "cargo": "Técnico de TV",
-    "remun_media": 2655.44
+    "remunMedia": 2655.44
   },
   {
     "id": 8,
     "cargo": "Assistente Técnico de Seguridade Social",
-    "remun_media": 2690.34
+    "remunMedia": 2690.34
   },
   {
     "id": 9,
     "cargo": "Analista Universitário (contrato)",
-    "remun_media": 2777.57
+    "remunMedia": 2777.57
   },
   {
     "id": 10,
     "cargo": "Auxiliar de Desenvolvimento Econômico e Social",
-    "remun_media": 2790.93
+    "remunMedia": 2790.93
   }
 ]

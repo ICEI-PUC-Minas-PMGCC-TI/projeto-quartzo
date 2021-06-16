@@ -2,51 +2,51 @@
   {
     "id": 1,
     "cargo": "Auditor Fiscal da Receita Estadual",
-    "remun_media": 25512.24
+    "remunMedia": 25512.24
   },
   {
     "id": 2,
     "cargo": "Coronel",
-    "remun_media": 23265.54
+    "remunMedia": 23265.54
   },
   {
     "id": 3,
     "cargo": "Tenente-Coronel",
-    "remun_media": 20917.85
+    "remunMedia": 20917.85
   },
   {
     "id": 4,
     "cargo": "Advogado Autárquico",
-    "remun_media": 20347.77
+    "remunMedia": 20347.77
   },
   {
     "id": 5,
     "cargo": "Major",
-    "remun_media": 15845.95
+    "remunMedia": 15845.95
   },
   {
     "id": 6,
     "cargo": "Gestor Fazendário",
-    "remun_media": 15392.98
+    "remunMedia": 15392.98
   },
   {
     "id": 7,
     "cargo": "Perito Criminal",
-    "remun_media": 14075.9
+    "remunMedia": 14075.9
   },
   {
     "id": 8,
     "cargo": "Médio Hematologista e Hemoterapeuta",
-    "remun_media": 13020.04
+    "remunMedia": 13020.04
   },
   {
     "id": 9,
     "cargo": "Delegado de Polícia",
-    "remun_media": 12994.76
+    "remunMedia": 12994.76
   },
   {
     "id": 10,
     "cargo": "Capitão",
-    "remun_media": 12976.58
+    "remunMedia": 12976.58
   }
 ]
