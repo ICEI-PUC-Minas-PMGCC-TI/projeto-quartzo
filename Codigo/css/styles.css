@@ -1,6 +1,6 @@
 body
 {
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif !important;
 }
 
 body h1
@@ -60,6 +60,16 @@ main section
   background: -webkit-linear-gradient(right, rgb(0, 255, 182), rgb(6, 85, 255));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+.data-content
+{
+  margin-top: 50px;
+}
+
+.dados-2
+{
+  margin-bottom: 100px;
 }
 
 /* carousel */
