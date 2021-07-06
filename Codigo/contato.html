@@ -77,42 +77,38 @@
         </div>
       </div>
     </section>
-    <form action="#" method="post">
-      <fieldset>
 
-        <fieldset class="grupo">
-          <div class="campo">
-            <label for="nome">Nome</label>
-            <input type="text" id="nome" name="nome" style="width: 10em" value="">
-          </div>
-          <div class="campo">
-            <label for="snome">Sobrenome</label>
-            <input type="text" id="snome" name="snome" style="width: 10em" value="">
-          </div>
-          <div class="campo">
-            <label for="email">E-mail</label>
-            <input type="text" id="email" name="email" style="width: 20em" value="">
-          </div>
-          </select>
-          </div>
-        </fieldset>
+    <form action="https://postmail.invotes.com/send" method="post" id="email_form">
 
-        <div class="campo">
-          <label for="mensagem">Mensagem</label>
-          <textarea rows="6" style="width: 20em" id="mensagem" name="mensagem"></textarea>
-        </div>
+      <input type="text" name="subject" placeholder="Nome" style="width: 15em" /></br></br>
+      
+      <input type="text" name="extra_email" placeholder="E-mail" style="width: 15em" /></br></br>
+      
+      <textarea name="text" placeholder="Mensagem" style="width: 20em"></textarea></br></br>
+      
+      <input type="hidden" name="access_token" value="64d610gn19wqy2h9himc8j1x" />
+      <!-- return urls can be fully qualified -OR-
+         start with / for root relative -OR-
+         start with . for url relative -->
+      <input type="hidden" name="success_url" value="https://icei-puc-minas-pmgcc-ti.github.io/tiaw-pmg-cc-t-20211-projeto-quartzo/" />
+      <input type="hidden" name="error_url" value=".?err=1" />
 
-        <div class="campo">
-          <label>Newsletter</label>
-          <label>
-            <input type="checkbox" name="newsletter" value="1"> Gostaria de receber a Newsletter da empresa
-          </label>
-        </div>
-
-        <button type="submit" name="submit">Enviar</button>
-      </fieldset>
-
+      <input id="submit_form" type="submit" value="Send" /></br></br>
+      <!-- not required, but we'd appreciate it if you'd link to us somewhere on your site -->
     </form>
+
+    <!-- optional, prevents the submit button from being pressed more than once -->
+    <script>
+      var submitButton = document.getElementById("submit_form");
+      var form = document.getElementById("email_form");
+      form.addEventListener("submit", function (e) {
+        setTimeout(function () {
+          submitButton.value = "Sending...";
+          submitButton.disabled = true;
+        }, 1);
+      });
+    </script>
+    
     <h4>
       <center> Ou encaminhe um e-mail para contato@projetoquartzo.com </center>
     </h4>
